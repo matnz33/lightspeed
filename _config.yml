@@ -21,10 +21,10 @@ sass:
 # About/contact
 author:
   name:              Mathew Ludgate
-  url:               
+  url:
   email:             mathew@vesper.nz
 
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/bradleytaunt/lightspeed
+  repo:              
