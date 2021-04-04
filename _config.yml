@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               'Light Speed'
-url:                 https://lightspeed.netlify.com
-tagline:             'Jekyll theme with a perfect Lighthouse score'
+title:               'Mathew Ludgate Astrophotography'
+url:                 https://vesper.nz
+tagline:             ''
 baseurl:             ""
 
 # Assets
@@ -20,9 +20,9 @@ sass:
 
 # About/contact
 author:
-  name:              Bradley Taunt
-  url:               https://twitter.com/bradtaunt
-  email:             bradleytaunt@gmail.com
+  name:              Mathew Ludgate
+  url:               
+  email:             mathew@vesper.nz
 
 # Custom vars
 version:             1.0.0
